@@ -478,7 +478,7 @@ end
 
 function startwoi()
     warps(storage,storageid)
-    while scanblock > 1 do
+    while true do
         recon1()
         cek()
         if bot:getItemCount(idblock) == 0 then
