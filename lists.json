@@ -1,12 +1,6 @@
-
+[
   {
-    "android_id": "ae9ea1acf1234567",
-    "nama": "User 1",
-    "akses": "premium"
-  },
-  {
-    "android_id": "b2f45cd8e9012345",
-    "nama": "User 2",
-    "akses": "basic"
+    "anjing": true,
+    "abc2": true
   }
-
+]
