@@ -1,1 +1,1 @@
-return {"degscuk"}
+return {"degscu"}
